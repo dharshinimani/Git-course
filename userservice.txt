@@ -1,9 +1,12 @@
 get user data 
 process the data
 
+
 create avatar for user dharshini
 
 login and logout
 
 
 user details in my database
+
+
