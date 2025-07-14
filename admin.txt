@@ -2,3 +2,5 @@ add and delete user
 assign role to user
 
 view database
+
+delete database
