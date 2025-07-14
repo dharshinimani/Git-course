@@ -7,6 +7,6 @@ create avatar for user dharshini
 login and logout
 
 
-user details in my database
+user details in mysql database
 
 
