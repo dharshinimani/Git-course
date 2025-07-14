@@ -1,4 +1,4 @@
 get user data 
 process the data
 
-create avatar for user
+create avatar for user priya
