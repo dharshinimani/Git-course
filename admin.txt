@@ -4,3 +4,6 @@ assign role to user
 view database
 
 delete database
+
+
+user details can altered
