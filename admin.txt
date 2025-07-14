@@ -7,3 +7,5 @@ delete database
 
 
 user details can altered
+
+user details can be deleted
